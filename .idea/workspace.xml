@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c356615a-a32b-4216-903d-5d7aa5ecf144" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/_2PrintAllPrimeTillN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_3printAllFibonacciNumberTillN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_4CountDigitInNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application._2PrintAllPrimeTillN">
+  <component name="RunManager" selected="Application._4CountDigitInNumber">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="_90DaysOfDSA" />
@@ -57,8 +58,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_3printAllFibonacciNumberTillN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_3printAllFibonacciNumberTillN" />
+      <module name="_90DaysOfDSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_4CountDigitInNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_4CountDigitInNumber" />
+      <module name="_90DaysOfDSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._4CountDigitInNumber" />
+        <item itemvalue="Application._3printAllFibonacciNumberTillN" />
         <item itemvalue="Application._2PrintAllPrimeTillN" />
         <item itemvalue="Application._1IsAPrime" />
         <item itemvalue="Application.Main" />
@@ -95,13 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1661575225465</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Day 1 ( Print all Prime till N&#10;)">
+      <created>1661575720004</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661575720004</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello World" />
     <MESSAGE value="&#10;Hello World" />
     <MESSAGE value="Day 1 ( is A prime ?)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 1 ( is A prime ?)" />
+    <MESSAGE value="Day 1 ( Print all Prime till N&#10;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 1 ( Print all Prime till N&#10;)" />
   </component>
 </project>
