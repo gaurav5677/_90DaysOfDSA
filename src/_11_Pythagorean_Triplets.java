@@ -24,6 +24,7 @@ public class _11_Pythagorean_Triplets {
             boolean flag = ((a * a + c * c) == (b * b));
             System.out.println(flag);
         } else {
+
             boolean flag = ((b * b + a * a) == (c * c));
             System.out.println(flag);
         }
